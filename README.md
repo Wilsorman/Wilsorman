@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilsorman
-- 👀 I’m interested in programming in Lenguage PhP
+- 👀 I’m interested in programming in Lenguage Phyton
 - 🌱 I’m currently learning Ing Informatica in Argentina
 
 
